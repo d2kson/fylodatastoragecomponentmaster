@@ -56,7 +56,7 @@ body {
 .container {
   display: flex;
   align-items: flex-end;
-  transform: translateY(80px);
+  transform: translateY(40px);
 }
 .fylobox {
   background-color: var(--darkblue);
